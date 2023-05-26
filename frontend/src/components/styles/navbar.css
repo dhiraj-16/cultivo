@@ -1,0 +1,31 @@
+.navbar{
+    background-color:#5b3204e8;
+    width: 100vw;
+    height: 10vh;
+}
+ .container-fluid{
+       margin: 0px 2%;
+  }
+   .navbar-brand{
+    font-family: 'Julee', cursive;
+    font-size: 2rem;
+    font-weight: 600;
+}
+.navbar-nav{
+    margin-left: auto;
+}
+
+.nav-item{
+    padding: 0px 18px;
+}
+.nav-link{
+    font-family: 'Patrick Hand', cursive;
+    font-size:1.3rem ;
+    color: white;
+}
+
+.logo{
+    height: 75px;
+    width: 200px;
+    
+}
